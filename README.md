@@ -4,10 +4,8 @@
 
 * I'm Austin Vance. I have done a few things mostly coding or
 managing operations teams.
-
 * I have a history at Pivotal, EMC, Dell,
 and Paypal.
-
 * Now I have Focused Labs and we are a growing amazing team!
   * We have been working with Twenty on DevOps for Healthy Together for the last few months
   * A big part of that work is migrating workloads to Kubernetes
@@ -233,6 +231,8 @@ EOF
 
 
 > If you're really interested I recomend the [CKAD](https://www.cncf.io/certification/ckad/) there's a course on Udemy that's normally abotu $12 https://www.udemy.com/course/certified-kubernetes-application-developer/
+
+---
 
 
 ```text
